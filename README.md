@@ -1,8 +1,10 @@
 Rails Bootstrap
 =========
 
-This application was generated with the [rails_apps_composer](https://github.com/RailsApps/rails_apps_composer) gem
-provided by the [RailsApps Project](http://railsapps.github.io/).
+An example application built using the help of Daniel Kehoe's bootrap
+with Rails guide, in order to further my understanding of Rails app
+architecture, and learn how to integrate bootstrap to get good-looking
+apps up and running fast.
 
 Diagnostics
 -
@@ -89,52 +91,21 @@ Development
 -   Authorization: None
 -   Admin: None
 
-
-
-
-
-
- delivery is disabled in development.
-
-Getting Started
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
 Documentation and Support
-
+-
 
 This is the only documentation.
 
 #### Issues
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-Similar Projects
--
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-Contributing
---
-
-If you make improvements to this application, please share with others.
-
--   Fork the project on GitHub.
--   Make your feature addition or bug fix.
--   Commit with Git.
--   Send the author a pull request.
-
-If you add functionality to this application, create an alternative
-implementation, or build an application that is similar, please contact
-me and I’ll add a note to the README so that others can find your work.
+- none yet (known)
 
 Credits
 --
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Thanks to Daniel Kehoe for the templates and the book.
 
 License
 --
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Do whatever you like with this code.
