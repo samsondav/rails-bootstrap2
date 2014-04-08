@@ -1,6 +1,9 @@
 Rails Bootstrap
 =========
 
+This application may be used as a base for any number of projects.
+==
+
 An example application built using the help of Daniel Kehoe's bootrap
 with Rails guide, in order to further my understanding of Rails app
 architecture, and learn how to integrate bootstrap to get good-looking
